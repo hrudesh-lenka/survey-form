@@ -23,7 +23,7 @@ p{
     width: 50%;
     padding-top: 2%;
     padding-left: 20%;
-    padding-right: 30%;
+    /* padding-right: 30%; */   
 }
 #survey-form{
     background-color: rgb(79, 79, 88);
@@ -65,6 +65,6 @@ textarea{
     display: flex;
     flex-direction: column;
     width: 75%;
-    padding: 5% 5% 5% 5%;
+    padding: 5% 5% 5% 8%;
 }
 }
